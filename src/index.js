@@ -8,7 +8,7 @@ import {
   LookingGlassConfig
 } from "@lookingglass/webxr";
 import HdrFile from "./assets/wasteland_clouds_puresky_1k.hdr";
-import helmet from "./assets/3dstreet-app-parking.glb";
+import helmet from "./assets/target.glb";
 
 const config = LookingGlassConfig;
 config.tileHeight = 512;

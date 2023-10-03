@@ -27,9 +27,10 @@ modified to use a different hdr and scenes exported from 3dstreet in glb format
 
 Image 1 - Double click the "Looking Glass Window" to make fullscreen after moving window over to your Looking Glass device. It's supposed to look weird like this.
 
-![image](https://github.com/kfarr/hello-threejs-gltf-lkg/assets/470477/20037d11-b794-48fc-931d-ffd69f85d00d)
+![image](https://github.com/kfarr/hello-threejs-gltf-lkg/assets/470477/80172cfd-3c29-484f-bf8a-6353adef6ba8)
 
 
 Image 2 - LookingGlass WebXR View Controls - spend some time tweaking these!
 
-![image](https://github.com/kfarr/hello-threejs-gltf-lkg/assets/470477/daf0a3a9-74b2-4a2d-aa48-961861eab9dd)
+![image](https://github.com/kfarr/hello-threejs-gltf-lkg/assets/470477/cdbb7177-7d33-482b-8aa2-70b76e8bd069)
+
